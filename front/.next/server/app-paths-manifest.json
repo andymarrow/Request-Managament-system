@@ -1,0 +1,9 @@
+{
+  "/(not-allowed)/not-allowed/page": "app/(not-allowed)/not-allowed/page.js",
+  "/(auth)/auth/Home/page": "app/(auth)/auth/Home/page.js",
+  "/(maintenance)/dashboard/(routes)/dashboardHome/page": "app/(maintenance)/dashboard/(routes)/dashboardHome/page.js",
+  "/(admin)/admin/(auth)/(routes)/dashboard/page": "app/(admin)/admin/(auth)/(routes)/dashboard/page.js",
+  "/(TechnicianPage)/technician/(subsidebar)/completed/page": "app/(TechnicianPage)/technician/(subsidebar)/completed/page.js",
+  "/(maintenance)/dashboard/(subsidebar)/completed/page": "app/(maintenance)/dashboard/(subsidebar)/completed/page.js",
+  "/(TechnicianPage)/technician/api/item/completed/[id]/page": "app/(TechnicianPage)/technician/api/item/completed/[id]/page.js"
+}

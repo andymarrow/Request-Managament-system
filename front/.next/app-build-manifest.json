@@ -1,0 +1,157 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(auth)/auth/Home/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/auth/Home/page.js"
+    ],
+    "/(auth)/auth/ForgotPassword/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/auth/ForgotPassword/page.js"
+    ],
+    "/(admin)/admin/(auth)/(routes)/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(admin)/admin/(auth)/(routes)/dashboard/page.css",
+      "static/chunks/app/(admin)/admin/(auth)/(routes)/dashboard/page.js"
+    ],
+    "/(admin)/admin/(auth)/(routes)/settings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/admin/(auth)/(routes)/settings/page.js"
+    ],
+    "/(employee)/employee/(routes)/emp_dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/employee/(routes)/emp_dashboard/page.js"
+    ],
+    "/(employee)/employee/(subsidebar)/SearchProblem/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/employee/(subsidebar)/SearchProblem/page.js"
+    ],
+    "/(employee)/employee/api/item/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/employee/api/item/[id]/page.js"
+    ],
+    "/(not-allowed)/not-allowed/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(not-allowed)/not-allowed/page.js"
+    ],
+    "/(employee)/employee/api/item/newForm/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/employee/api/item/newForm/[id]/page.js"
+    ],
+    "/(department)/department/(routes)/allRequest/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(department)/department/(routes)/allRequest/page.js"
+    ],
+    "/(department)/department/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(department)/department/layout.js"
+    ],
+    "/(department)/department/(subsidebar)/pending/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(department)/department/(subsidebar)/pending/page.js"
+    ],
+    "/(department)/department/api/newForm/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(department)/department/api/newForm/[id]/page.js"
+    ],
+    "/(department)/department/api/statusId/[statusId]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(department)/department/api/statusId/[statusId]/page.js"
+    ],
+    "/(department)/department/(subsidebar)/accepted/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(department)/department/(subsidebar)/accepted/page.js"
+    ],
+    "/(maintenance)/dashboard/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(maintenance)/dashboard/layout.js"
+    ],
+    "/(maintenance)/dashboard/(routes)/dashboardHome/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(maintenance)/dashboard/(routes)/dashboardHome/page.js"
+    ],
+    "/(maintenance)/dashboard/api/item/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(maintenance)/dashboard/api/item/[id]/page.js"
+    ],
+    "/(maintenance)/dashboard/(subsidebar)/assign/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(maintenance)/dashboard/(subsidebar)/assign/page.js"
+    ],
+    "/(maintenance)/dashboard/(subsidebar)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(maintenance)/dashboard/(subsidebar)/layout.js"
+    ],
+    "/(maintenance)/dashboard/(subsidebar)/completed/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(maintenance)/dashboard/(subsidebar)/completed/page.js"
+    ],
+    "/(TechnicianPage)/technician/(subsidebar)/allHistory/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(TechnicianPage)/technician/(subsidebar)/allHistory/page.js"
+    ],
+    "/(TechnicianPage)/technician/(subsidebar)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(TechnicianPage)/technician/(subsidebar)/layout.js"
+    ],
+    "/(TechnicianPage)/technician/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(TechnicianPage)/technician/layout.js"
+    ],
+    "/(admin)/admin/(auth)/(routes)/Deactivated/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(admin)/admin/(auth)/(routes)/Deactivated/page.css",
+      "static/chunks/app/(admin)/admin/(auth)/(routes)/Deactivated/page.js"
+    ],
+    "/(TechnicianPage)/technician/(subsidebar)/work_Load/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(TechnicianPage)/technician/(subsidebar)/work_Load/page.js"
+    ],
+    "/(TechnicianPage)/technician/api/item/Assigned/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(TechnicianPage)/technician/api/item/Assigned/[id]/page.js"
+    ],
+    "/(TechnicianPage)/technician/(subsidebar)/completed/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(TechnicianPage)/technician/(subsidebar)/completed/page.js"
+    ],
+    "/(TechnicianPage)/technician/api/item/completed/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(TechnicianPage)/technician/api/item/completed/[id]/page.js"
+    ]
+  }
+}
